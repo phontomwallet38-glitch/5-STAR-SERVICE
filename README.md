@@ -16,10 +16,10 @@ Investment Fairy Growth combines stunning visual branding with top-tier 5-star e
 ## 🔒 Official Verified Information
 To ensure your safety and avoid scams, only trust the official links listed below:
 
-* **Official Contract Address (CA):** `[MASUKKAN_ALAMAT_CONTRACT_BARU_ANDA_DI_SINI]`
+* **Official Contract Address (CA):** `GLjhZWiNv61Qdn5295cLYKnwqnkNErUoB6tNfn2DnQBF
 * **Launchpad:** Created via Pump.fun
-* **Telegram Official:** `[LINK_TELEGRAM_ANDA]`
-* **X / Twitter Official:** `[LINK_TWITTER_ANDA]`
+* **Telegram Official:** `[https://t.me
+* **X / Twitter Official:** `[https://x.com
 * **Telegram Official:**
 `https://t.me`
 * **Telegram Official:**
