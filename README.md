@@ -2,7 +2,7 @@
 ## 🔒 Official Verified Information
 To ensure your safety and avoid scams, only trust the official links listed below:
 
-* **Official Contract Address (CA):** `GLjhZWiNv61Qdn5295cLYKnwqnkNERUoB6tNfn2DnQBF`
+* **Official Contract Address (CA):** `EtrJMmJg9EtRVRVerkUqcyAbTirxdyRbdkBhiU2nDSB1'
 * **Launchpad:** Created via Pump.fun
 * **Telegram Official:** `https://t.me/Coinpampfun`
 * **X / Twitter Official:** `https://x.com/phontomX9w`
