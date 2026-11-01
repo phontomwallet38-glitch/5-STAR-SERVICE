@@ -22,6 +22,10 @@ To ensure your safety and avoid scams, only trust the official links listed belo
 * **X / Twitter Official:** `[LINK_TWITTER_ANDA]`
 * **Telegram Official:**
 `https://t.me`
+* **Telegram Official:**
+`https://t.me`
+* **X / Twitter Official:**
+`https://x.com`
 
 >
  ⚠️ **SECURITY WARNING:** The team will NEVER ask for your 24-word seed phrase or private keys. Always double-check the Contract Address before making any transactions.
