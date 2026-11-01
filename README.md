@@ -20,8 +20,11 @@ To ensure your safety and avoid scams, only trust the official links listed belo
 * **Launchpad:** Created via Pump.fun
 * **Telegram Official:** `[LINK_TELEGRAM_ANDA]`
 * **X / Twitter Official:** `[LINK_TWITTER_ANDA]`
+* **Telegram Official:**
+`https://t.me`
 
-> ⚠️ **SECURITY WARNING:** The team will NEVER ask for your 24-word seed phrase or private keys. Always double-check the Contract Address before making any transactions.
+>
+ ⚠️ **SECURITY WARNING:** The team will NEVER ask for your 24-word seed phrase or private keys. Always double-check the Contract Address before making any transactions.
 
 
 ## 🗺️ Roadmap & Development
