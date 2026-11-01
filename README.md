@@ -11,7 +11,7 @@ Investment Fairy Growth combines stunning visual branding with top-tier 5-star e
 * **Fairy Growth Mechanics:** Strategic initiatives to ensure continuous project expansion.
 * **100% Transparent:** All official updates, community milestones, and public resources are managed openly here on GitHub.
 
----
+---https://github.com/phontomwallet38-glitch/5-STAR-SERVICE
 
 ## 🔒 Official Verified Information
 To ensure your safety and avoid scams, only trust the official links listed below:
@@ -23,7 +23,7 @@ To ensure your safety and avoid scams, only trust the official links listed belo
 
 > ⚠️ **SECURITY WARNING:** The team will NEVER ask for your 24-word seed phrase or private keys. Always double-check the Contract Address before making any transactions.
 
----
+---https://x.com/phontomX9w/status/2116751391490449873?a=byScMCsy1Si11lAW8ic&s=19
 
 ## 🗺️ Roadmap & Development
 We use GitHub to track our development and ecosystem milestones openly. Stay tuned to our **Issues** and **Projects** tabs on this repository to see what the team is currently building!
