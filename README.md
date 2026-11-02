@@ -14,5 +14,5 @@ We use GitHub to track our development and ecosystem milestones openly. Stay tun
 
 - [x] Token Creation on Pump.fun
 - [x] Community Building (Telegram & X launch)
-- [ ] Official Website Deployment via GitHub Pages
-- [ ] Raydim Migration & Dexscreener Update
+- [x] Official Website Deployment via GitHub Pages
+- [x] Raydim Migration & Dexscreener Update
