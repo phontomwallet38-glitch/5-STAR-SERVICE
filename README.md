@@ -1,13 +1,4 @@
-
-## 🔒 Official Verified Information
-To ensure your safety and avoid scams, only trust the official links listed below:
-
-* **Official Contract Address (CA):** `EtrJMmJg9EtRVRVerkUqcyAbTirxdyRbdkBhiU2nDSB1'
-* **Launchpad:** Created via Pump.fun
-* **Telegram Official:** `https://t.me/Coinpampfun`
-* **X / Twitter Official:** `https://x.com/phontomX9w`
-
-> ⚠️ **SECURITY WARNING:** The team will NEVER ask for your 24-word seed phrase or private keys. Always double-check the Contract Address before making any transactions.
+ double-check the Co Address before making any transactions.
 
 ## 🗺️ Roadmap & Development
 We use GitHub to track our development and ecosystem milestones openly. Stay tuned to our Issues and Projects tabs on this repository to see what the team is currently building!
